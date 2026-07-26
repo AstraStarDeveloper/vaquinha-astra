@@ -5,7 +5,7 @@
 // Configuração da Vaquinha para a OBAFOG
 // Altere aqui o valor arrecadado quando entrar mais PIX!
 const meta = 10000;
-let arrecadado = 655;
+let arrecadado = 675;
 
 function atualizarVaquinha(){
 
