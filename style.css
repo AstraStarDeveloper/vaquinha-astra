@@ -660,3 +660,11 @@ footer p{
     }
 
 }
+
+.mensagem-agradecimento {
+    text-align: center;      /* Centraliza o texto */
+    color: #ffffff;          /* Cor do texto (ajuste se preferir) */
+    font-size: 1.1rem;       /* Tamanho da fonte */
+    margin-top: 15px;        /* Espaço em relação à linha do "Concluído!" */
+    font-weight: 500;        /* Deixa o texto levemente em negrito */
+}
